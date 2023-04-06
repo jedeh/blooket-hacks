@@ -57,3 +57,4 @@ function footer() {
 };
 
 footer();
+Get faster 1000 
