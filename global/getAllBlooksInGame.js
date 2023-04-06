@@ -48,3 +48,4 @@ function footer() {
 };
 
 footer();
+            pos5 = e.clientx;
