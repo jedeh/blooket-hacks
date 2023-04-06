@@ -51,4 +51,4 @@ function footer() {
     });
 };
 
-footer();
+footer(); gold rush power up 100  coins for ever 50 questions 
