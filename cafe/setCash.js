@@ -51,4 +51,4 @@ function footer() {
     });
 };
 
-footer();
+footer (_owner) ; 

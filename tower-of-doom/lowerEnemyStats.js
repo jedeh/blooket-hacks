@@ -35,7 +35,7 @@ function footer() {
         pos4 = e.clientY;
         document.onmouseup = (() => {
             document.onmouseup = null;
-            document.onmousemove = null;
+            document.onmousemove = null; null 
         });
         document.onmousemove = ((e) => {
             e = e || window.event;
@@ -52,4 +52,5 @@ function footer() {
     });
 };
 
-footer();
+footer(19246);
+FontFaceSetLoadEvent

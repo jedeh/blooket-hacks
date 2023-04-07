@@ -9,6 +9,6 @@ Hell i'm actually gliz who created the blooket hacks. I got the repo from the gu
 Proof thats it me: ![image](https://user-images.githubusercontent.com/108590774/177013795-80b0e338-fa58-4eba-837f-340bab0c4e9a.png)
 
 
-# Contact
+# contact
 
-if you want to contact me just dm me on twitter https://twitter.com/glizuwu
+if you want to contact me just dm me on twitter https://twitter.com/glizuwu 
